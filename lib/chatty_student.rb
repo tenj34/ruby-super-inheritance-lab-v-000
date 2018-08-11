@@ -10,6 +10,7 @@ class ChattyStudent < Student
     10.time do
       puts"Pick me!"
     end
-    end
+
   end
+
 end
